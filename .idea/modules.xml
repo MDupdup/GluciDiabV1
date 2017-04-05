@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GlucidDiab.iml" filepath="$PROJECT_DIR$/GlucidDiab.iml" />
-      <module fileurl="file://$PROJECT_DIR$/WorkshopProjetGlucidQuant-1incoming.iml" filepath="$PROJECT_DIR$/WorkshopProjetGlucidQuant-1incoming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WorkshopProjetGlucidQuant.iml" filepath="$PROJECT_DIR$/WorkshopProjetGlucidQuant.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
